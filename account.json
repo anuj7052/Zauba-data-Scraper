@@ -1,0 +1,26 @@
+{
+    "data": {
+      "module": "MDS", 
+      "searchType": "autosuggest", 
+      "result": [
+        {
+          "rgstrtnNmbr": "036273", 
+          "cmpnyOrgn": "Indian", 
+          "cnNmbr": "U72200AP2001PTC036273", 
+          "dateOfIncorporation": "2001-02-23 00:00:00", 
+          "prvsCmpnyNm": "", 
+          "cmpnyEndDt": "", 
+          "acntType": "Company", 
+          "cmpnySts": "Active", 
+          "rcNm": "Registrar of Companies, Andhra Pradesh", 
+          "rocCode": "ROC Vijayawada", 
+          "cmpnyNm": "MAHATHI SOFTWARE PRIVATE LIMITED", 
+          "state": "Andhra Pradesh", 
+          "companyType": ""
+        }
+      ], 
+      "count": 1
+    }, 
+    "message": "Data fetched Successfully", 
+    "error": ""
+  }
