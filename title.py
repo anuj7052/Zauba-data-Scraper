@@ -39,8 +39,8 @@
 # # b= "hello"
 # # print(b[1:5])
 
-# # b = "anuj"
-# # print(b[:3])
+# b = "anuj"
+# print(b[:3])
 
 # # a = "anuj"
 # # print(b[2:])
@@ -89,19 +89,21 @@
 # txt =f"I have {a} rs."
 # print(txt)
 
-price = 200
-txt = f"The price is {price:.2f} dollars"
+# price = 200
+# txt = f"The price is {price:.2f} dollars"
 
-print (txt)
-
-
-a =f"i have {2*2} rs."
-
-print(a)
+# print (txt)
 
 
-b = "Heyy \"anuj\" from the north"
-print(b)
+# a =f"i have {2*2} rs."
 
-a= "anujsingh"
-print(a[2:6])
+# print(a)
+
+
+# b = "Heyy \"anuj\" from the north"
+# print(b)
+
+a= "  anujsingh    "
+print(a.trim())
+
+
